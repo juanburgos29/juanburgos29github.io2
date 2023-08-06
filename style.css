@@ -1,0 +1,62 @@
+table{
+    font-size:xx-large;
+    background-color: #E6DAE2;
+}
+td{
+    font-style: italic;
+}
+#lunes{
+    color: #0CF700;
+    font-size: 50px;
+}
+#martes{
+    color: #2B3B66;
+    font-size: 50px;
+}
+#miercoles{
+    color: darkred;
+    font-size: 50px;
+}
+#jueves{
+    color: darkgreen;
+    font-size: 50px;
+}
+#viernes{
+    color: darkorchid;
+    font-size: 50px;
+}
+td{
+    font-size: 25px;
+}
+#selec{
+    color:#668BF2;
+    font-size: 50px;
+}
+h1{
+    font-size: 50px;
+}
+#olympus{ 
+    color: #0CF700;
+}
+header{
+    background-color: aquamarine;
+    margin-top: 25px;
+    margin-left: auto;
+}
+footer{
+    background-color: violet;
+    margin-top: 25px;
+    margin-left: auto;
+}
+
+
+    
+
+   
+
+
+
+
+
+
+ 
